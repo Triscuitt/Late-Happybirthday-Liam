@@ -97,6 +97,91 @@ text-shadow: 0 0 20px rgb(8, 79, 212);
     }
   }
     
+@media only screen and (min-width: 375px) {
+
+  .card {
+
+    width: 70%;
+
+    }
+    
+    .heading {   /*The message is "Happy Birthday!"  */
+
+      font-size: 20px;
+      top: -20px;
+      
+      }
+
+      .greeting { /* The message is "Dear Xelle" */
+
+        font-size: 20px;
+        top: 10%;
+
+        
+        }
+
+        .message { /* The message is the long paragraph */
+
+          font-size: 15px ;
+          line-height: 25px;
+          top: 100px;
+        
+        }
+
+        .signature { /* The message is "Triscuit" */
+
+          font-size: 20px;
+          bottom: -15px;
+         
+          }
+
+        }
+
+
+        @media only screen and (min-width: 360px) {
+
+          .card {
+        
+            width: 70%;
+        
+            }
+            
+            .heading {   /*The message is "Happy Birthday!"  */
+        
+              font-size: 20px;
+              top: -20px;
+              
+              }
+        
+              .greeting { /* The message is "Dear Xelle" */
+        
+                font-size: 20px;
+                top: 10%;
+        
+                
+                }
+        
+                .message { /* The message is the long paragraph */
+        
+                  font-size: 15px ;
+                  line-height: 25px;
+                  top: 100px;
+                
+                }
+        
+                .signature { /* The message is "Triscuit" */
+        
+                  font-size: 20px;
+                  bottom: -15px;
+                 
+                  }
+        
+                }
+        
+
+
+
+
 
 
 
